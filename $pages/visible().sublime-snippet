@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$pages->visible()$0]]></content>
+    <tabTrigger>visible</tabTrigger>
+    <scope>source.php</scope>
+    <description>$pages->visible()</description>
+</snippet>

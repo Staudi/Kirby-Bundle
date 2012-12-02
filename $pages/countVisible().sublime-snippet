@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$pages->countVisible()$0]]></content>
+    <tabTrigger>countVisible</tabTrigger>
+    <scope>source.php</scope>
+    <description>$pages->countVisible()</description>
+</snippet>

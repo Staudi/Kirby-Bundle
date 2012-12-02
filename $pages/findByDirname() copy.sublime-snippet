@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$pages->findByDirname(${1:\$dirname})$0]]></content>
+    <tabTrigger>findByDirname</tabTrigger>
+    <scope>source.php</scope>
+    <description>$pages->findByDirname()</description>
+</snippet>

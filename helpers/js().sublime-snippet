@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<?php echo js('${1:javascript/script}.js' ?>$0]]></content>
+    <tabTrigger>js</tabTrigger>
+    <description>Kirby js()</description>
+</snippet>

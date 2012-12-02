@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$list = \$pages->pagination()->firstPage()$0]]></content>
+    <tabTrigger>firstPage</tabTrigger>
+    <scope>source.php</scope>
+    <description>pagination->firstPage()</description>
+</snippet>

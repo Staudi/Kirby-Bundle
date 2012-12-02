@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$pages->invisible()$0]]></content>
+    <tabTrigger>invisible</tabTrigger>
+    <scope>source.php</scope>
+    <description>$pages->invisible()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$page->hasChildren()$0]]></content>
+    <tabTrigger>hasChildren</tabTrigger>
+    <scope>source.php</scope>
+    <description>$page->hasChildren()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$page->files()->flip()$0]]></content>
+    <tabTrigger>flip</tabTrigger>
+    <scope>source.php</scope>
+    <description>files()->flip()</description>
+</snippet>

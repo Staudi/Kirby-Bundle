@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$image->height()]]></content>
+    <tabTrigger>height</tabTrigger>
+    <scope>source.php</scope>
+    <description>$image->height()</description>
+</snippet>
