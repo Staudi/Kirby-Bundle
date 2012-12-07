@@ -1,6 +1,6 @@
 #Kirby Bundle
 
-Bundle for Kirby CMS.
+Kirby CMS snippets for Sublime Text 2.
 
 ##Snippets
 Snippets are based on kirby [cheat sheet](). so "first()" will expand into:
